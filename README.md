@@ -1,7 +1,7 @@
 ### Hi, I'm Berry!
 
 Software Developer student exploring tech</br>
-Studying Computer Science</br>
+Studying IT</br>
 Learning website & app development and maintenance, data analysis and UI/UX</br>
 
 # 💻 Tech Stack:
